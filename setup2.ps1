@@ -13,5 +13,5 @@ Disable-TCC
 Enable-Audio
 Install-VirtualAudio
 Install-Steam
-Add-AutoLogin $admin_username $admin_password
+#Add-AutoLogin $admin_username $admin_password
 Restart-Computer

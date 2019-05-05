@@ -19,7 +19,7 @@
             "metadata": {
                 "description": "Location of the setup script."
             },
-            "defaultValue": "https://raw.githubusercontent.com/ecalder6/azure-gaming/master"
+            "defaultValue": "https://raw.githubusercontent.com/sdecker/azure-gaming/master"
         },
         "networkID": {
             "type": "securestring",
@@ -137,10 +137,10 @@
             ],
             "sku": {
                 "name": "Standard_NV6",
-                "capacity": "1"
+                "capacity": 1
             },
             "properties": {
-                "overprovision": "false",
+                "overprovision": false,
                 "upgradePolicy": {
                     "mode": "Automatic"
                 },
