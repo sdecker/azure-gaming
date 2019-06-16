@@ -154,7 +154,7 @@
                         },
                         "imageReference":  {
                             "publisher": "MicrosoftWindowsDesktop",
-                            "offer": "windows-10-1903-vhd-client-prod-stage",
+                            "offer": "Windows-10",
                             "sku": "19h1-pro",
                             "version": "latest"
                         }
