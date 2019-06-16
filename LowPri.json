@@ -153,9 +153,9 @@
                             "createOption": "FromImage"
                         },
                         "imageReference":  {
-                            "publisher": "MicrosoftWindowsServer",
-                            "offer": "WindowsServer",
-                            "sku": "2016-Datacenter",
+                            "publisher": "MicrosoftWindowsDesktop",
+                            "offer": "windows-10-1903-vhd-client-prod-stage",
+                            "sku": "19h1-pro",
                             "version": "latest"
                         }
                     },
